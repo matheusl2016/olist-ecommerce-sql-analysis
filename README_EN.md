@@ -41,23 +41,32 @@ By combining **advanced SQL queries** with **Python-based visualization**, this 
 
 ## 📂 Repository Structure
 📂 olist-ecommerce-sql-analysis/
-│
+
+
 ├── 📜 README.md ← Project overview (PT-BR)
 ├── 📜 README_EN.md ← English version
-├── 📔 olist_analysis.ipynb ← Full notebook
+├── 📔 olist_analysis.ipynb ← Full Jupyter notebook
 ├── 🐍 sql_olist_e_commerce_data_analysis.py ← Python version
-│
-├── 📊 data/ ← Original Kaggle data
+
+
+├── 📊 data/ ← Original Kaggle dataset
 │ ├── olist_customers_dataset.csv
 │ ├── olist_orders_dataset.csv
 │ ├── olist_products_dataset.csv
-│ └── ... (other tables)
+│ └── ... (other CSV files)
 │
-├── 📈 images/ ← Visual outputs
+
+├── 📈 images/ ← Visual outputs and graphs
 │ ├── all_images.png
 │ ├── image1.png
 │ ├── image2.png
-│ └── ... (other images)
+│ └── ... (other visuals)
+
+
+└── 📁 sql_queries/ ← SQL scripts and analysis
+├── sales.sql
+├── logistics.sql
+└── customers.sql
 
 ---
 
@@ -108,6 +117,4 @@ Through this exploration of the Olist E-commerce Dataset, we discovered:
 - CLV concentration around Brazil’s most urbanized states
 
 - Small sellers dominating the platform, yet facing scalability challenges
-
-- This project highlights data storytelling, analytical reasoning, and technical fluency — essential skills for a Data Analyst role.
 
