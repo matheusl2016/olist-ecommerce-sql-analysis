@@ -54,19 +54,13 @@ By combining **advanced SQL queries** with **Python-based visualization**, this 
 │ ├── olist_orders_dataset.csv
 │ ├── olist_products_dataset.csv
 │ └── ... (other CSV files)
-│
+
 
 ├── 📈 images/ ← Visual outputs and graphs
 │ ├── all_images.png
 │ ├── image1.png
 │ ├── image2.png
 │ └── ... (other visuals)
-
-
-└── 📁 sql_queries/ ← SQL scripts and analysis
-├── sales.sql
-├── logistics.sql
-└── customers.sql
 
 ---
 
