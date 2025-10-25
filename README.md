@@ -1,4 +1,4 @@
-# 🏬 Análise de Dados E-commerce Olist (SQL + Python)
+# 🏬 Análise de Dados E-commerce Olist (Python + SQL)
 
 > **Análise completa de dados de uma das maiores plataformas de e-commerce do Brasil — Olist.**  
 > SQL foi utilizado para manipulação e exploração dos dados, enquanto Python cuidou da visualização e geração de insights.  
