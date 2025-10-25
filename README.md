@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 Visão Geral
+## Visão Geral
 
 Este projeto analisa mais de **100 mil pedidos reais** da **Olist**, um marketplace brasileiro que conecta pequenos lojistas a grandes varejistas online.  
 O objetivo é **extrair insights estratégicos** sobre comportamento do consumidor, desempenho logístico e valor do cliente.
@@ -15,7 +15,7 @@ Combinando **consultas SQL avançadas** e **visualizações em Python**, o proje
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - 🧾 Entender o comportamento de vendas e as categorias mais lucrativas  
 - 🚚 Analisar tempos de entrega e eficiência logística por região  
@@ -26,7 +26,7 @@ Combinando **consultas SQL avançadas** e **visualizações em Python**, o proje
 
 ---
 
-## ⚙️ Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 | Tecnologia | Finalidade |
 |-------------|-------------|
@@ -62,7 +62,7 @@ Combinando **consultas SQL avançadas** e **visualizações em Python**, o proje
 
 ---
 
-## 🔍 Principais Insights
+## Principais Insights
 
 ### 💸 **Análise de Vendas**
 - Categorias líderes: **Beleza e Saúde** e **Eletrônicos**  
@@ -90,7 +90,7 @@ Combinando **consultas SQL avançadas** e **visualizações em Python**, o proje
 
 ---
 
-## 🧩 Foco Analítico
+## Meu Foco Analítico
 
 Este projeto mostra como **SQL e Python se complementam** na análise de dados:  
 - SQL é responsável pela **extração e transformação**;  
